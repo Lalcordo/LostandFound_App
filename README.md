@@ -14,12 +14,7 @@
 - Android Jetpack architecture pattern with added controllers
 - MapBox
 
-# Author
-- Julius Dejon
-- Leo Alcordo
-- Sankarnath Suresh
-
-# Screenshots
+## Screenshots
 
 <div style='display: flex'>
 <img src='./1.png' alt='tokyo' width='200' />
@@ -39,3 +34,8 @@
 <img src='./13.png' alt='tokyo' width='200' />
   
 </div>
+
+# Author
+- Julius
+- Leo
+- Sankar
