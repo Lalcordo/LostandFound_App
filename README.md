@@ -1,20 +1,28 @@
-# Lost and Found App made in Android
+# Lost and Found App made in Android(Kotlin)
 
 # Features
-- Sign up / Sign In as Reporter
+- Sign up / Sign In as Reporter, Claimant, or Guest
 - Browse for found items
-- Search by category
+- Report a lost item
+- Filter by category
 - Search by Map View
 - Contact the Reporter
+- View Lost item in detail
 
-# Services and Architecture
+# Services, Dependancies, and Architecture
 - Firebase firestore
 - Firebase storage (storing of images)
 - Firebase Authentication (email and password)
 - Android Jetpack architecture pattern with added controllers
+- MVC architecture
 - MapBox
 
-## Screenshots
+# Author
+- Julius Dejon
+- Leo Alcordo
+- Sankarnath Suresh
+
+# Screenshots
 
 <div style='display: flex'>
 <img src='./1.png' alt='tokyo' width='200' />
@@ -24,7 +32,7 @@
 
 <div style='display: flex'>
 <img src='./6.png' alt='weather-history-plain' width='200' />
-  <img src='./8.png' alt='weather-history-plain' width='200' />
+<img src='./8.png' alt='weather-history-plain' width='200' />
 <img src='./9.png' alt='weather-history-plain' width='200' />
 </div>
 
@@ -34,8 +42,3 @@
 <img src='./13.png' alt='tokyo' width='200' />
   
 </div>
-
-# Author
-- Julius
-- Leo
-- Sankar
