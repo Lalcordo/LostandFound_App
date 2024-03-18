@@ -14,7 +14,6 @@
 - Firebase storage (storing of images)
 - Firebase Authentication (email and password)
 - Android Jetpack architecture pattern with added controllers
-- MVC architecture
 - MapBox
 
 # Author
